@@ -26,6 +26,7 @@ Here are the [results](https://github.com/AntixK/PyTorch-VAE/blob/master/README.
 - Pytorch Lightning >= 0.6.0 ([GitHub Repo](https://github.com/PyTorchLightning/pytorch-lightning/tree/deb1581e26b7547baf876b7a94361e60bb200d32))
 - CUDA enabled computing device
 
+
 ### Installation
 ```
 $ git clone https://github.com/AntixK/PyTorch-VAE
